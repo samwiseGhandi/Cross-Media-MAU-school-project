@@ -1,0 +1,77 @@
+{
+    "users": [
+        {
+            "username": "Ludde",
+            "password": "1",
+            "id": 0,
+            "pronoun": "",
+            "storyPhase": 0,
+            "inventory": {
+                "mapItem": false,
+                "letterItem": false,
+                "photo": false,
+                "oldLetterItem": false,
+                "gems": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            },
+            "hasPlayed": false,
+            "introDialogue": false,
+            "completedGame": false,
+            "outroDialogue": false
+        },
+        {
+            "username": "Sami",
+            "password": "1",
+            "id": 1,
+            "pronoun": "",
+            "storyPhase": 1,
+            "inventory": {
+                "mapItem": true,
+                "letterItem": false,
+                "photo": false,
+                "oldLetterItem": false,
+                "gems": [
+                    true,
+                    true,
+                    false,
+                    false,
+                    false
+                ]
+            },
+            "hasPlayed": false,
+            "introDialogue": false,
+            "completedGame": false,
+            "outroDialogue": false
+        },
+        {
+            "username": "Emil",
+            "password": "1",
+            "id": 2,
+            "pronoun": "",
+            "storyPhase": 0,
+            "inventory": {
+                "mapItem": false,
+                "letterItem": false,
+                "photo": false,
+                "oldLetterItem": false,
+                "gems": [
+                    false,
+                    false,
+                    false,
+                    false,
+                    false
+                ]
+            },
+            "hasPlayed": false,
+            "introDialogue": false,
+            "completedGame": false,
+            "outroDialogue": false,
+            "outroADialogue": false
+        }
+    ]
+}
